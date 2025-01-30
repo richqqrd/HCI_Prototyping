@@ -1,5 +1,7 @@
 # HCI_Prototyping
 
+### Course Grade: 
+
 ### Overview
 
 Waste City Scout is a prototype application developed as part of an HCI (Human-Computer Interaction) prototyping project. The goal of the app is to allow users to capture images of trash using their smartphone camera and mark the locations of trash on an interactive map. This enables better environmental awareness and can support community-driven cleanup efforts.
@@ -24,9 +26,9 @@ AI-based trash detection for automated categorization.
 
 ### Contributors
 
-[richqqrd]
+richqqrd
 
-[HakanOz21]
+HakanOz21
 
 License
 
