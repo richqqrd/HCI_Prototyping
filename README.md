@@ -26,7 +26,10 @@ AI-based trash detection for automated categorization.
 
 ### Contributors
 
-richqqrd
+[Richard](https://github.com/richqqrd)
+[Hakan](https://github.com/HakanOz21)
+
+
 
 HakanOz21
 
