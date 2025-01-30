@@ -30,9 +30,6 @@ AI-based trash detection for automated categorization.
 [Hakan](https://github.com/HakanOz21)
 
 
-
-HakanOz21
-
 License
 
 This project is for educational and research purposes under an open-source or academic license.
